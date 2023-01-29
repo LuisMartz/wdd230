@@ -1,0 +1,20 @@
+#body {
+    width: 350px;
+}
+#div1 {
+    text-align: middle;
+    border-style: dashed;
+    border-color: aqua;
+    background-color: lightblue;
+    display: table;
+}
+#img{
+    vertical-align: middle;
+    display: table-cell;
+    width: 150px;
+    height: 150px;
+}
+.span{
+    vertical-align: middle;
+  display: table-cell;
+}
